@@ -1,2 +1,2 @@
-# Learning-Code
-Projects Created While Learning Code (Aided by Tutorials)
+# Learning-Python
+Projects Created While Learning Python Coding (Aided by Tutorials)
